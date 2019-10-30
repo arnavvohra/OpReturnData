@@ -1,0 +1,18 @@
+{
+  "name": "opreturn-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "arnav",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin-core": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "pg": "^7.12.1",
+    "sequelize": "^5.21.1",
+    "zeromq": "^5.1.1"
+  }
+}
